@@ -271,6 +271,7 @@ p {
 	max-width: 1500px;
 	margin: 0 auto;
 	padding: 100px 0;
+	background-color:blue;
 }
 #services .service-top {
 	max-width: 500px;
