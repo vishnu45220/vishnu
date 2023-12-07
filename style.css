@@ -271,12 +271,13 @@ p {
 	max-width: 1500px;
 	margin: 0 auto;
 	padding: 100px 0;
+	background-color:orange;
 	
 }
 #services .service-top {
 	max-width: 500px;
 	margin: 0 auto;
-	background-color:orange;
+	
 }
 #services .service-bottom {
 	display: flex;
